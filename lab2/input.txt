@@ -1,0 +1,6 @@
+cat кошка
+dog собака
+hello привет
+home дом
+beautiful красивый
+world мир
